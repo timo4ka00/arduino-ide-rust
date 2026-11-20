@@ -1,9 +1,0 @@
-/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/glutin-winit/09f8fb82795de1d7/out/glutin_winit-09f8fb82795de1d7.d: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/event_loop.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/window.rs
-
-/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/glutin-winit/09f8fb82795de1d7/out/libglutin_winit-09f8fb82795de1d7.rlib: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/event_loop.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/window.rs
-
-/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/glutin-winit/09f8fb82795de1d7/out/libglutin_winit-09f8fb82795de1d7.rmeta: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/event_loop.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/window.rs
-
-/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/lib.rs:
-/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/event_loop.rs:
-/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glutin-winit-0.5.0/src/window.rs:

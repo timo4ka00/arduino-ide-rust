@@ -1,9 +1,0 @@
-/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/event-listener/bbf84378daaffe57/out/event_listener-bbf84378daaffe57.d: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/intrusive.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/notify.rs
-
-/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/event-listener/bbf84378daaffe57/out/libevent_listener-bbf84378daaffe57.rlib: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/intrusive.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/notify.rs
-
-/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/event-listener/bbf84378daaffe57/out/libevent_listener-bbf84378daaffe57.rmeta: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/intrusive.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/notify.rs
-
-/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/lib.rs:
-/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/intrusive.rs:
-/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/event-listener-5.4.2/src/notify.rs:
