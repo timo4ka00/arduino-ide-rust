@@ -1,0 +1,9 @@
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/zvariant_utils/caf2d588b714f8cc/out/zvariant_utils-caf2d588b714f8cc.d: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/case.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/macros.rs
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/zvariant_utils/caf2d588b714f8cc/out/libzvariant_utils-caf2d588b714f8cc.rlib: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/case.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/macros.rs
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/zvariant_utils/caf2d588b714f8cc/out/libzvariant_utils-caf2d588b714f8cc.rmeta: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/case.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/macros.rs
+
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/lib.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/case.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_utils-2.1.0/src/macros.rs:

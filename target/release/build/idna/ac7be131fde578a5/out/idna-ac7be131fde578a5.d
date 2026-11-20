@@ -1,0 +1,10 @@
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/idna/ac7be131fde578a5/out/idna-ac7be131fde578a5.d: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/idna/ac7be131fde578a5/out/libidna-ac7be131fde578a5.rlib: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/idna/ac7be131fde578a5/out/libidna-ac7be131fde578a5.rmeta: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs
+
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs:

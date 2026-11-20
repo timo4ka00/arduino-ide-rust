@@ -1,0 +1,10 @@
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/sha1/2d7bf3ccec2a77c0/out/sha1-2d7bf3ccec2a77c0.d: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress/soft.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress/x86.rs
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/sha1/2d7bf3ccec2a77c0/out/libsha1-2d7bf3ccec2a77c0.rlib: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress/soft.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress/x86.rs
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/sha1/2d7bf3ccec2a77c0/out/libsha1-2d7bf3ccec2a77c0.rmeta: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress/soft.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress/x86.rs
+
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/lib.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress/soft.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.7/src/compress/x86.rs:

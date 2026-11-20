@@ -1,0 +1,9 @@
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/accesskit_winit/bf3bf3e5b6cac9ec/out/accesskit_winit-bf3bf3e5b6cac9ec.d: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/mod.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/unix.rs
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/accesskit_winit/bf3bf3e5b6cac9ec/out/libaccesskit_winit-bf3bf3e5b6cac9ec.rlib: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/mod.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/unix.rs
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/accesskit_winit/bf3bf3e5b6cac9ec/out/libaccesskit_winit-bf3bf3e5b6cac9ec.rmeta: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/mod.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/unix.rs
+
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/lib.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/mod.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/unix.rs:

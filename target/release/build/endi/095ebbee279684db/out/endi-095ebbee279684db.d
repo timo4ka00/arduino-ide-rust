@@ -1,0 +1,10 @@
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/endi/095ebbee279684db/out/endi-095ebbee279684db.d: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/endian.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/io.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/../README.md
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/endi/095ebbee279684db/out/libendi-095ebbee279684db.rlib: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/endian.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/io.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/../README.md
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/endi/095ebbee279684db/out/libendi-095ebbee279684db.rmeta: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/endian.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/io.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/../README.md
+
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/lib.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/endian.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/io.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/endi-1.1.1/src/../README.md:

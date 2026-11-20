@@ -1,0 +1,8 @@
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/wayland-protocols-experimental/1a7a3490505b0b04/out/wayland_protocols_experimental-1a7a3490505b0b04.d: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-experimental-20250721.0.1/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-experimental-20250721.0.1/src/protocol_macro.rs
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/wayland-protocols-experimental/1a7a3490505b0b04/out/libwayland_protocols_experimental-1a7a3490505b0b04.rlib: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-experimental-20250721.0.1/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-experimental-20250721.0.1/src/protocol_macro.rs
+
+/home/timurkrutoyhlopec/.cline/data/workspaces/chat/rust-project/target/release/build/wayland-protocols-experimental/1a7a3490505b0b04/out/libwayland_protocols_experimental-1a7a3490505b0b04.rmeta: /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-experimental-20250721.0.1/src/lib.rs /home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-experimental-20250721.0.1/src/protocol_macro.rs
+
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-experimental-20250721.0.1/src/lib.rs:
+/home/timurkrutoyhlopec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-protocols-experimental-20250721.0.1/src/protocol_macro.rs:
